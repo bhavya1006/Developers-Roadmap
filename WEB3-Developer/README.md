@@ -68,7 +68,7 @@ Once you're enough confident with your computer science fundamentals, now its ti
 ### 4. Learn about Smart Contracts and Solidity
 > _**A smart contract is a computer program or a transaction protocol that is intended to automatically execute, control or document legally-relevant events and actions according to the terms of contract or an agreement.**_
 <p align="center">
-  <img width="860" height="500" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664793025635/5pX3fj6xa.png?auto=compress,format&format=webp">
+  <img height="650" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1664793025635/5pX3fj6xa.png?auto=compress,format&format=webp">
 </p>
 
 _Using reference of [Investopedia](https://www.investopedia.com/terms/s/smart-contracts.asp) "A smart contract is a self-executing contract with the terms of the agreement between buyer and seller being directly written into lines of code. The code and the agreements contained therein exist across a distributed, decentralized **Blockchain** network."_
